@@ -15,7 +15,9 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'ngTouch',
+    'ui.sortable'
   ])
   .config(function ($routeProvider) {
     $routeProvider
